@@ -1,0 +1,5 @@
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7t1\obj\Debug\net6.0\Sem7t1.csproj.AssemblyReference.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7t1\obj\Debug\net6.0\Sem7t1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7t1\obj\Debug\net6.0\Sem7t1.AssemblyInfoInputs.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7t1\obj\Debug\net6.0\Sem7t1.AssemblyInfo.cs
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7t1\obj\Debug\net6.0\Sem7t1.csproj.CoreCompileInputs.cache

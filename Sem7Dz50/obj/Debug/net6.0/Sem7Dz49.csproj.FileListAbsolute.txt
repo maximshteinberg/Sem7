@@ -1,0 +1,15 @@
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7Dz49\bin\Debug\net6.0\Sem7Dz49.exe
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7Dz49\bin\Debug\net6.0\Sem7Dz49.deps.json
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7Dz49\bin\Debug\net6.0\Sem7Dz49.runtimeconfig.json
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7Dz49\bin\Debug\net6.0\Sem7Dz49.dll
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7Dz49\bin\Debug\net6.0\Sem7Dz49.pdb
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7Dz49\obj\Debug\net6.0\Sem7Dz49.csproj.AssemblyReference.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7Dz49\obj\Debug\net6.0\Sem7Dz49.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7Dz49\obj\Debug\net6.0\Sem7Dz49.AssemblyInfoInputs.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7Dz49\obj\Debug\net6.0\Sem7Dz49.AssemblyInfo.cs
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7Dz49\obj\Debug\net6.0\Sem7Dz49.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7Dz49\obj\Debug\net6.0\Sem7Dz49.dll
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7Dz49\obj\Debug\net6.0\refint\Sem7Dz49.dll
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7Dz49\obj\Debug\net6.0\Sem7Dz49.pdb
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7Dz49\obj\Debug\net6.0\Sem7Dz49.genruntimeconfig.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar7\Sem7Dz49\obj\Debug\net6.0\ref\Sem7Dz49.dll
